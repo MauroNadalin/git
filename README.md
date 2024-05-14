@@ -7,7 +7,7 @@
 
 
 
-# Curso git - aprendendo a trabalho com GitHub
+# Curso git - aprendendo a trabalhar com GitHub
 ### criação de repositório, sincronização, push, clone
 ### criação de projetos 
 ### inserir metadados com Shields.io
