@@ -1,4 +1,4 @@
-public clasas Ponto {
+public class Ponto {
     private int x;
     public int X 
         {get;set;}
